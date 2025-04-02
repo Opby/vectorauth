@@ -17,3 +17,14 @@ Vectorauth has designed, implemented and verified a novel cyber authentication m
   * Secure -> Access will automatically be revoked as soon as users move away
 
 For more information, please go to [VectorAuth.net](https://vectorauth.net)
+
+## Our Innovative Authentication Flow
+* Accurately detects the user’s position to predict if the user needs to sign in. 
+* Users use their voice to sign in without having to enter any passwords.
+* The access will automatically be revoked as soon as users move away from the device to avoid any security breaches.
+* User set its secret phrase for even higher security
+
+## Our Innovative Hardware Design
+* Use 5 Qorvo DWM1001 development boards for our prototype. 
+* 1 is configured as a tag, or the authentication token that a user carries
+* 3  are configured as anchors and 1 is configured as a listener. They are fixed in position and connected to the laptop through a USB port. Together, they detect tag’s position with high accuracy (<50 cm error) and low latency (<2 seconds)
