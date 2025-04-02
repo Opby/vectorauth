@@ -28,3 +28,5 @@ For more information, please go to [VectorAuth.net](https://vectorauth.net)
 * Use 5 Qorvo DWM1001 development boards for our prototype. 
 * 1 is configured as a tag, or the authentication token that a user carries
 * 3  are configured as anchors and 1 is configured as a listener. They are fixed in position and connected to the laptop through a USB port. Together, they detect tag’s position with high accuracy (<50 cm error) and low latency (<2 seconds)
+<img width="890" alt="Screen Shot 2025-04-01 at 7 48 55 PM" src="https://github.com/user-attachments/assets/82703dec-123f-47f7-a144-c12fb5e34417" />
+
