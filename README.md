@@ -34,6 +34,9 @@ Vectorauth has designed, implemented and verified a novel cyber authentication m
 
 ## Python Code
 * Multiple Python programs are written to implement the authentication flow. They are all uploaded to Github.
+* demo.py describe and demo the end-to-end flow
+* record.py is how to record user's voice to creat an identity for each user
+* verify.py is how user's voice is authenticated
 
 ## Contact us
 For more information, please go to [VectorAuth.net](https://vectorauth.net)
